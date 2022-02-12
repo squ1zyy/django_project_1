@@ -130,3 +130,4 @@ dmypy.json
 
 # Users
 .idea/
+local_settings.py
